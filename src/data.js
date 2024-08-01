@@ -82,6 +82,12 @@ export const data = [
     "description": "Uptime Kuma is an easy-to-use self-hosted monitoring tool.",
     "link": "https://kuma.zatspi.duckdns.org/",
     "icon": "https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons@master/png/uptime-kuma.png"
+  },
+  {
+    "name": "Portainer RP3",
+    "description": "Hybrid multi-cloud, multi-cluster container management.",
+    "link": "http://192.168.1.111:9000/",
+    "icon": "https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/portainer.png"
   }
 ]
 
