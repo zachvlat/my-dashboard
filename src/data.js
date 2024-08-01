@@ -1,4 +1,4 @@
-[
+export const data = [
   {
     "name": "Nextcloud",
     "description": "File sync and share software for individuals to enterprises.",
@@ -45,13 +45,13 @@
     "name": "HomeAssistant",
     "description": "Control your devices with Home Assistant apps.",
     "link": "https://ha.zatspi.duckdns.org",
-    "icon": "https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/homeassistant.png"
+    "icon": "https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/home-assistant.png"
   },
   {
     "name": "AudiobookSelf",
     "description": "Organize and listen to your audiobooks.",
     "link": "https://audiobook.zatspi.duckdns.org/",
-    "icon": "https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/audiobookself.png"
+    "icon": "https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons@master/png/audiobookshelf.png"
   },
   {
     "name": "Navidrome",
@@ -69,7 +69,7 @@
     "name": "NGINX Proxy Manager",
     "description": "Manage your NGINX proxy hosts with ease.",
     "link": "https://zatspi.duckdns.org/nginx/",
-    "icon": "https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/nginxproxymanager.png"
+    "icon": "https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons@master/png/nginx-proxy-manager.png"
   },
   {
     "name": "Podgrab",
@@ -81,7 +81,7 @@
     "name": "Uptime Kuma",
     "description": "Uptime Kuma is an easy-to-use self-hosted monitoring tool.",
     "link": "https://kuma.zatspi.duckdns.org/",
-    "icon": "https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/uptimekuma.png"
+    "icon": "https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons@master/png/uptime-kuma.png"
   }
 ]
 
