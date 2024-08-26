@@ -30,12 +30,6 @@ export const data = [
     "icon": "https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/transmission.png"
   },
   {
-    "name": "FreshRSS",
-    "description": "Self-hosted RSS and Atom feed aggregator.",
-    "link": "https://rss.zatspi.duckdns.org/",
-    "icon": "https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/freshrss.png"
-  },
-  {
     "name": "deemix",
     "description": "Deezer downloader library built from Deezloader Remix.",
     "link": "https://deemix.zatspi.duckdns.org/",
@@ -70,12 +64,6 @@ export const data = [
     "description": "Manage your NGINX proxy hosts with ease.",
     "link": "https://zatspi.duckdns.org/nginx/",
     "icon": "https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons@master/png/nginx-proxy-manager.png"
-  },
-  {
-    "name": "Podgrab",
-    "description": "Podcast download and management tool.",
-    "link": "https://podgrab.zatspi.duckdns.org/",
-    "icon": "https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/podgrab.png"
   },
   {
     "name": "Uptime Kuma",
