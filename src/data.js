@@ -71,6 +71,12 @@ export const data = [
     "link": "https://kuma.zatspi.duckdns.org/",
     "icon": "https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons@master/png/uptime-kuma.png"
   },
+    {
+    "name": "PiGallery2",
+    "description": "A fast directory-first photo gallery website, with rich UI, optimized for running on low resource servers.",
+    "link": "https://photos.zatspi.duckdns.org/",
+    "icon": "https://bpatrik.github.io/pigallery2/assets/icon_inv.png"
+  },
   {
     "name": "Portainer RP3",
     "description": "Hybrid multi-cloud, multi-cluster container management.",
