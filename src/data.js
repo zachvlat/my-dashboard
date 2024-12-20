@@ -38,7 +38,7 @@ export const data = [
   {
     "name": "HomeAssistant",
     "description": "Control your devices with Home Assistant apps.",
-    "link": "https://ha.zatspi.duckdns.org",
+    "link": "http://192.168.1.65:8999",
     "icon": "https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/home-assistant.png"
   },
   {
@@ -65,12 +65,6 @@ export const data = [
     "link": "https://zatspi.duckdns.org/nginx/",
     "icon": "https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons@master/png/nginx-proxy-manager.png"
   },
-  {
-    "name": "Uptime Kuma",
-    "description": "Uptime Kuma is an easy-to-use self-hosted monitoring tool.",
-    "link": "https://kuma.zatspi.duckdns.org/",
-    "icon": "https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons@master/png/uptime-kuma.png"
-  },
     {
     "name": "PiGallery2",
     "description": "A fast directory-first photo gallery website, with rich UI, optimized for running on low resource servers.",
@@ -80,7 +74,7 @@ export const data = [
   {
     "name": "Portainer RP3",
     "description": "Hybrid multi-cloud, multi-cluster container management.",
-    "link": "http://192.168.1.111:9000/",
+    "link": "http://192.168.1.65:9000/",
     "icon": "https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/portainer.png"
   }
 ]
