@@ -3,7 +3,7 @@ export const data = [
     "name": "Nextcloud",
     "description": "File sync and share software for individuals to enterprises.",
     "link": "https://nextcloud.zatspi.duckdns.org/",
-    "icon": "https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/nextcloud.png"
+    "icon": "https://avatars.githubusercontent.com/u/19211038?s=200&v=4"
   },
   {
     "name": "Portainer",
