@@ -71,12 +71,6 @@ export const data = [
     "link": "https://photos.zatspi.duckdns.org/",
     "icon": "https://bpatrik.github.io/pigallery2/assets/icon_inv.png"
   },
-    {
-    "name": "Pi-hole",
-    "description": "Network-wide Ad Blocking",
-    "link": "http://192.168.1.65/admin",
-    "icon": "https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/pi-hole.png"
-  },
   {
     "name": "Portainer RP3",
     "description": "Hybrid multi-cloud, multi-cluster container management.",
