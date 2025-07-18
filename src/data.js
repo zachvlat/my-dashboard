@@ -72,6 +72,18 @@ export const data = [
     "icon": "https://bpatrik.github.io/pigallery2/assets/icon_inv.png"
   },
   {
+    "name": "Gitea",
+    "description": "Gitea is a forge software package for hosting software development.",
+    "link": "https://git.zatspi.duckdns.org/",
+    "icon": "https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons@master/png/git.png"
+  },
+  {
+    "name": "FreshRSS",
+    "description": "FreshRSS is a self-hosted RSS and Atom feed aggregator. It is lightweight, easy to work with, powerful, and customizable.",
+    "link": "https://rss.zatspi.duckdns.org/",
+    "icon": "https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons@master/png/freshrss.png"
+  },
+  {
     "name": "Portainer RP3",
     "description": "Hybrid multi-cloud, multi-cluster container management.",
     "link": "http://192.168.1.65:9000/",
